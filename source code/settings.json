@@ -1,0 +1,12 @@
+{
+    "system_of_interest_id": 30000142,
+    "region_of_interest_id": 10000002,
+    "structure_of_interest_location_id": 60003760,
+    "manufacturing_tax": 0.1,
+    "sales_tax": 0.06,
+    "price_deprecation_time_in_seconds": 259200,
+    "material_efficiency_from_structure": 0.0,
+    "statistical_significance": 0.05,
+    "use_average_material_prices": false,
+    "use_average_product_prices": false
+}
