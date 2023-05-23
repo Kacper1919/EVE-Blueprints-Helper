@@ -1,0 +1,5 @@
+PyQt6==6.5.0
+PyQt6_sip==13.4.1
+python_jose==3.3.0
+Requests==2.30.0
+scipy==1.10.1
